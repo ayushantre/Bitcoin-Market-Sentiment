@@ -1,0 +1,1 @@
+# primetrade.ai-analytics-assignment
