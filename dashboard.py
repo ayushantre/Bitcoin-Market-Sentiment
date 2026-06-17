@@ -1,5 +1,5 @@
 """
-Primetrade AI Assignment — Streamlit Dashboard
+Bitcoin Market Sentiment — Streamlit Dashboard
 Run: streamlit run dashboard.py
 Requires:  streamlit pandas numpy scipy scikit-learn matplotlib seaborn plotly
 """
@@ -21,7 +21,7 @@ warnings.filterwarnings("ignore")
 
 # ── Page config ────────────────────────────────────────────────────────────────
 st.set_page_config(
-    page_title="Primetrade AI · Fear & Greed Dashboard",
+    page_title="Bitcoin Market Sentiment · Fear & Greed Dashboard",
     page_icon="📊",
     layout="wide",
     initial_sidebar_state="expanded",
