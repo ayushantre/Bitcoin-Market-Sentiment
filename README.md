@@ -1,4 +1,4 @@
-# primetrade.ai-analytics-assignment
+# Bitcoin Market Sentiment-
 
 ## 📂 Datasets
 The project utilizes the following datasets:
@@ -8,7 +8,7 @@ The project utilizes the following datasets:
 | **Bitcoin Market Sentiment** | Date, Classification (Fear / Greed) | [Download Link](https://drive.google.com/file/d/1PgQC0tO8XN-wqkNyghWc_-mnrYv_nhSf/view?usp=sharing) |
 | **Historical Trader Data (Hyperliquid)** | account, symbol, execution price, size, side, time, start position, event, closedPnL, leverage, etc. | [Download Link](https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view?usp=sharing) |
 
-> **Note:** Before running the `primetrade.ai` assignment file, please ensure you update the file paths within the code to point to the correct location of your downloaded files.
+> **Note:** Before running the `Bitcoin Market Sentiment`  file, please ensure you update the file paths within the code to point to the correct location of your downloaded files.
 
 ## 📓 Analysis
 Detailed explanations and the step-by-step logic of the data processing and modeling are included in the markdown cells within the accompanying Jupyter Notebook (`.ipynb`).
